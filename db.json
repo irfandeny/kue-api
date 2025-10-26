@@ -1,0 +1,28 @@
+{
+  "kue": [
+    {
+      "id": 1,
+      "nama": "Nastar",
+      "deskripsi": "Kue isi nanas lembut dan manis",
+      "harga": 50000,
+      "stok": 10,
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nastar.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Kastengel",
+      "deskripsi": "Kue keju gurih dengan tekstur renyah",
+      "harga": 60000,
+      "stok": 8,
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kastengel.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Putri Salju",
+      "deskripsi": "Kue lembut bertabur gula halus",
+      "harga": 55000,
+      "stok": 12,
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Putri_salju_cookies.jpg"
+    }
+  ]
+}
